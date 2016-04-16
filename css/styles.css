@@ -108,12 +108,13 @@ header {
 /*  To get everything centered, we put the content in this tag. 
 	Margin: 0 auto; does the magic */
 
+/*
 .container {
 	max-width: 1000px;
 	width: 100%;
 	margin: 0px auto;
 }
-
+*/
 
 /*  Header fade in */
 .bg {
@@ -599,12 +600,13 @@ footer p {
 	/**************************** HEADER ***************************/
 
 	
+/*
 	.container {
 	width: 100%;
 	margin: 0 auto;
 	border: blue 1px solid;
 	}
-
+*/
 	.containerContactForm {
 	max-width: 320px;
 	margin: 0px auto;
@@ -754,13 +756,14 @@ footer p {
 	header {
 		
 	}
-	
+
+/*	
 	.container {
 	width: 100%;
 	margin: 0 auto;
 	}
 
-
+*/
 	.wrapper_logo {
 	width: 12em;
 	height: auto;
